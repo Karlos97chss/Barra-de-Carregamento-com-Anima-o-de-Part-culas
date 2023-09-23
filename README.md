@@ -11,4 +11,6 @@ Animação de Partículas: As partículas são representadas como pequenos círc
 
 Transições Suaves: O código utiliza transições suaves para criar uma experiência de carregamento fluida e agradável para o usuário.
 
+Personalização Fácil: O código é altamente personalizável, permitindo que você ajuste as cores, tamanhos e velocidades das partículas e da barra de carregamento de acordo com suas preferências.
+
 O codigo encontra-se disponivel no codepen: https://codepen.io/Carlos-Henrique-Sanches-Silva/pen/dywdKOp
